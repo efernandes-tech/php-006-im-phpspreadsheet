@@ -17,3 +17,4 @@ PHP - iMasters
     composer require phpoffice/phpspreadsheet
 - Rodar arquivo para criar Excel.
     php spreadsheet.php
+    php spreadsheetSum.php
