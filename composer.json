@@ -1,0 +1,12 @@
+{
+    "name": "ederson.fernandes/php-006-im-phpspreadsheet",
+    "authors": [
+        {
+            "name": "Éderson Fernandes",
+            "email": "edersonluis.rf@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.2"
+    }
+}
